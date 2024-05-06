@@ -4,6 +4,7 @@
 
 # REQUISIÇÃO 
 (
+
     ## "Sou Analista de Testes e estou precisando escrever cenários de testes baseado nas seguintes regras de negócio onde estamos implantando Dashboards para os usuários. Me informe todas as opções de cenários de testes com a escrita em BDD separando cada campo por um cenário de teste diferente. Os campos de filtro devem ser testados juntos conforme regra de negócio"
 
     RN01 - O acesso a ferramenta ‘Dashboard’ será concedido pela área de negócio, por meio da aplicação ‘gestão de acesso’. Somente terão acesso aos painéis os usuários autorizados em sistema.
@@ -35,15 +36,16 @@
 
 # RESPOSTA 
 (
+
     ## Cenários de Teste BDD para Dashboards - Regras de Negócio
 
-    **Cenário: Acesso à Ferramenta Dashboard**
+    1. Cenário: Acesso à Ferramenta Dashboard
 
     **Dado** que o usuário não possui acesso à ferramenta Dashboard
     **Quando** o usuário tenta acessar a ferramenta
     **Então** o sistema deve exibir uma mensagem informando que o acesso não está autorizado
 
-    **Cenário: Filtro de Unidade**
+    2. Cenário: Filtro de Unidade
 
     **Dado** que o campo Unidade esteja presente na tela de filtros
     **Quando** o usuário não seleciona nenhuma unidade
