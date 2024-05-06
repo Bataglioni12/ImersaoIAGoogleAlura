@@ -11,14 +11,23 @@
 #### Site	Visitas	Porcentagem
 
 mail.google.com	609	18.2%
+
 github.com	535	16.0%
+
 accounts.google.com	381	11.4%
+
 drive.google.com	219	6.5%
+
 portalmjv.sharepoint.com	153	4.6%
+
 lms.ebaconline.com.br	151	4.5%
+
 www.linkedin.com	147	4.4%
+
 octane.com.br	142	4.2%
+
 www.udemy.com	135	4.0%
+
 awstou.ifractal.com.br	116	3.5%
 
 ### Observações:
