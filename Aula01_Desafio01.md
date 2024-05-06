@@ -1,8 +1,8 @@
-# Prompt Gemini
+## Prompt Gemini
 
-# Sou Analista de Testes/QA, então pedi ajuda ao Gemini para me ajudar com possíveis casos de testes para uma determinadas regras de negócio.
+### Sou Analista de Testes/QA, então pedi ajuda ao Gemini para me ajudar com possíveis casos de testes para uma determinadas regras de negócio.
 
-# REQUISIÇÃO 
+### REQUISIÇÃO 
 (
 
     ## "Sou Analista de Testes e estou precisando escrever cenários de testes baseado nas seguintes regras de negócio onde estamos implantando Dashboards para os usuários. Me informe todas as opções de cenários de testes com a escrita em BDD separando cada campo por um cenário de teste diferente. Os campos de filtro devem ser testados juntos conforme regra de negócio"
@@ -34,7 +34,7 @@
     Os campos ficarão sempre habilitados para a atualização de novas informações." 
 )
 
-# RESPOSTA 
+### RESPOSTA 
 (
 
     ## Cenários de Teste BDD para Dashboards - Regras de Negócio
